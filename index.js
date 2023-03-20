@@ -32,13 +32,9 @@ getColorBtn.addEventListener('click', ()=> {
             colorSchemeArr.map(color => {
                 const colorsHex = color.hex.value
                 footer.innerHTML += `
-                <div>${colorsHex}</div>`
-                // footer.addEventListener('click', ()=>{
-                //     let copyClipBoard
-                //     copyClipBoard += navigator.clipboard.writeText(colorsHex)
-                //     console.log(copyClipBoard)
-                // })
-                getSchemeDivs(colorsHex)
+                <div class="hex-input">${colorsHex}</div>`
+                    getSchemeDivs(colorsHex)
+                })
             })
-    })
-})
+        })
+        
