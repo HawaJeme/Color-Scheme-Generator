@@ -1,6 +1,6 @@
 # Color Scheme Generator
 
-A Generator that returns a scheme for provided seed color with an optional mode.
+A Generator that returns a color scheme for provided seed color with an optional mode.
 
 (Color schemes are multi-color combinations chosen according to given seed color).
 
