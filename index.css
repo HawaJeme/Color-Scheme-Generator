@@ -2,22 +2,22 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #42c8f1;
+    background-color: #eeee;
 }
 header{
     height: 4rem;
     width: 21rem;
     margin: 2rem auto 1.2rem;
     font-family: 'Lobster', cursive;
-    color: #df005d;
+    color: #a5130e;
     text-align: center;
     text-shadow: 1px 2px black;
-    border-bottom: 2px solid rgb(133, 0, 173);
+    border-bottom: 2px solid rgb(99, 89, 89);
 }
 .container{
     grid-template-rows:  4.5rem auto  2.5rem;
     background-color: rgb(255, 255, 255);
-    border: 3px solid rgb(100, 100, 100);
+    border: 3px solid rgb(99, 89, 89);
     border-radius: 5px;
     margin: 0 auto;
     width: 30rem;
