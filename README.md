@@ -7,16 +7,8 @@ A Generator that returns a color scheme for provided seed color with an optional
 - This project is a solution to color scheme generator solo project on Scrimba.
 
 
-## Goals
+## Requirements:
 
 - Build from scratch.
 - Used Asynchronous functions in Javascript.
 - Used the https://www.thecolorapi.com API.
-
-
-## Build with:
-
-- HTML
-- CSS
-- Javasript
-- Visual studio code
